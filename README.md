@@ -1,1 +1,1 @@
-# GameplayEffectManager_Sample_5.3
+# GameplayEffectManager_Sample
